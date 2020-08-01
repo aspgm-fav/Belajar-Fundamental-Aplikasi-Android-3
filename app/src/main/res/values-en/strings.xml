@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Github User (UI/UX and API)</string>
+    <string name="home">Search User in Github</string>
+    <!--    For Search-->
+    <string name="search">Search</string>
+    <string name="search_hint">Search…</string>
+
+    <!--    For TabLayout-->
+    <string name="tab_repository">Repository</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+
+    <!--    For Menu-->
+    <string name="setting">Setting</string>
+    <string name="language">Language</string>
+    <string name="favorite">Favorite</string>
+
+    <!--    For Favorite-->
+    <string name="favorite_title">Your Favorite List</string>
+    <string name="text_empty_favorite">No Favorite Yet</string>
+
+    <string name="reminder_open_app">Daily Reminder</string>
+
+    <!--    Loading-->
+    <string name="loading_text">Loading…</string>
+
+    <!--    Not Found-->
+    <string name="reminder_on">Reminder on :</string>
+
+    <!--    For Repo and Follow is Empty-->
+    <string name="text_no_repository_message">Nothing Repository</string>
+    <string name="text_no_followers_message">Not Have Followers</string>
+    <string name="text_no_following_message">No Following Yet</string>
+
+    <!--    For Button and Toast Favorite-->
+    <string name="btn_add_favorite">Add to Favorite</string>
+    <string name="btn_remove_favorite">Remove from Favorite</string>
+    <string name="add_to_favorite"> added favorite</string>
+    <string name="remove_from_favorite"> remove favorite</string>
+
+    <!--    For List User and Detail User-->
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="blog">Blog</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+
+</resources>

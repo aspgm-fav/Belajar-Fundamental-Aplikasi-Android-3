@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Your Favorite List</string>
+
+    <!--    Loading-->
+    <string name="loading_text">Loading…</string>
+
+    <string name="text_empty_favorite">No Favorite Yet</string>
+
+    <!--    For List User and Detail User-->
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+</resources>

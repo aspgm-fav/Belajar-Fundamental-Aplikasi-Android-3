@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Github User (UI/UX dan API)</string>
+    <string name="home">Cari Pengguna Github</string>
+    <!--    For Search-->
+    <string name="search">Cari</string>
+    <string name="search_hint">Cari…</string>
+
+    <!--    For TabLayout-->
+    <string name="tab_repository">Repositori</string>
+    <string name="tab_followers">Pengikut</string>
+    <string name="tab_following">Mengikuti</string>
+
+    <!--    For Menu-->
+    <string name="setting">Pengaturan</string>
+    <string name="language">Bahasa</string>
+    <string name="favorite">Favorit</string>
+
+    <!--    For Favorite-->
+    <string name="favorite_title">Daftar Favorit Anda</string>
+    <string name="text_empty_favorite">Belum Ada Favorit</string>
+
+    <string name="reminder_open_app">Pengingat Harian</string>
+
+    <!--    Loading-->
+    <string name="loading_text">Memuat Data…</string>
+
+    <!--    Reminder-->
+    <string name="reminder_on">Pengingat hidup pukul :</string>
+
+    <!--    For Repo and Follow is Empty-->
+    <string name="text_no_repository_message">Tidak Ada Repositori</string>
+    <string name="text_no_followers_message">Belum Memiliki Pengikut</string>
+    <string name="text_no_following_message">Belum Mengikuti</string>
+
+    <!--    For Button and Toast Favorite-->
+    <string name="btn_add_favorite">Tambahkan Ke Favorit</string>
+    <string name="btn_remove_favorite">Hapus Dari Favorit</string>
+    <string name="add_to_favorite"> ditambahkan ke favorit</string>
+    <string name="remove_from_favorite"> dihapus dari favorit</string>
+
+    <!--    For List User and Detail User-->
+    <string name="username">Username</string>
+    <string name="name">Nama</string>
+    <string name="blog">Blog</string>
+    <string name="company">Perusahaan</string>
+    <string name="location">Lokasi</string>
+    <string name="repository">Repositori</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+
+</resources>
